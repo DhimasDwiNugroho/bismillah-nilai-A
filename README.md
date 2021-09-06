@@ -1,2 +1,2 @@
-# bismillah-nilai-A
-hai gais
+# bismillah-nilai-A(Tugas1)
+tugas 1
